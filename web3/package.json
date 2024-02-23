@@ -1,0 +1,22 @@
+{
+    "name": "hardhat-project",
+    "devDependencies": {
+      "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+      "chai": "^4.3.7",
+      "hardhat": "^2.12.6"
+    },
+    "dependencies": {
+      "@ethersproject/hardware-wallets": "^5.7.0",
+      "@ledgerhq/hw-transport-node-hid": "^6.27.13",
+      "@nomicfoundation/hardhat-network-helpers": "^1.0.8",
+      "@openzeppelin/contracts": "^4.8.1",
+      "@openzeppelin/merkle-tree": "^1.0.4",
+      "dayjs": "^1.11.7",
+      "dotenv": "^16.0.3",
+      "erc721a": "^4.2.3",
+      "hardhat-abi-exporter": "^2.10.1",
+      "keccak256": "^1.0.6",
+      "operator-filter-registry": "^1.4.0",
+      "solidity-coverage": "^0.8.2"
+    }
+  }
